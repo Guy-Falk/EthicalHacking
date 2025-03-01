@@ -16,8 +16,4 @@ Command line [arguments]:
     -P = Port listening on.#
      # = IP Adress Encription Password
 
-This file will basically hide itself and load/reboot on windows startup, and wait for a connection via specified IP address and port number
-
-File: ServicesHubRootHost.ino
-Description:-
-This file is compiled into firmware using Arduino IDE onto a Digispark ATTINY85 microchip.
+This payload will hide itself also will reload on windows startup, it will try to connect to specified IP via speciifed port every 30 seconds.
