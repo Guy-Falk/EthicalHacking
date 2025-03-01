@@ -2,7 +2,7 @@ The files in this repositry may not be what they seem, they are for test purpose
 
 File: ServicesHub.RootHost.zip
 Description:-
-This zip file is actually an .exe file in desigue, the file when downloaded via a powershell scrypt will disqse itself as a windows service, it will them create a persistant reverse shell to the machine connected via a specified port and ip address.
+This zip is an executable in disguise, the file when downloaded via a powershell script will disguise itself as a windows service and create a persistant reverse shell via a specified ip and port.
 
 Command Line Args
 ServicesHub.RootHost [arguments]
