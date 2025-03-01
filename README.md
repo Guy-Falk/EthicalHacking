@@ -13,7 +13,6 @@ Command line [arguments]:
     -S = Show in windows registry as auto load on startup.
     -H = Hide from windows registry as auto load on startup.
     -I = IP Adress to connect to.
-    -P = Port listening on.#
-     # = IP Adress Encription Password
+    -P = Port listening on.
 
 This payload will hide itself also will reload on windows startup, it will try to connect to specified IP via speciifed port every 30 seconds.
