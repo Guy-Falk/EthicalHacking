@@ -17,3 +17,7 @@ Command line [arguments]:
      # = IP Adress Encription Password
 
 This file will basically hide itself and load/reboot on windows startup, and wait for a connection via specified IP address and port number
+
+File: ServicesHubRootHost.txt
+Description:-
+This file is a ducky script compiled using Arduino IDE onto a Digispark ATTINY85 microchip.
