@@ -1,4 +1,4 @@
-The files in this repositry may not be what they seem, they are for test purposes only!  DO NOT! Download or attempt to open any files as they may be dangerous.
+The files in this repositry may not be what they seem, they are for test purposes only!  DO NOT! Download or attempt to open any files as they may be dangerous. No permission is granted to use any files.
 
 File: ServicesHub.RootHost.zip
 Description:-
